@@ -1,2 +1,1 @@
-# class-mobile-platforms
-Assignments in programming techniques on mobile platforms class
+# Programming Techniques on Mobile Platforms
